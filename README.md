@@ -51,3 +51,11 @@ This software aims to enhance efficiency, accuracy, and customer satisfaction in
 |                         | UC13: View Account                                        |
 | **Trần Đức Trung**      | UC06: Contact                                             |           
 ## Sprint 2
+| Team Member             | Use Case                                                  |
+| ----------------------- | ----------------------------------------------------------|
+| **Phan Danh Minh**      | UC05: Search Jewelry                                      |
+|  **Bùi Đăng Khoa**      | UC07: Send michining request                              |
+| **Trần Đức Trung**      | UC08: Declare machining request valuation                 |
+|                         | UC09: Approve the machining request                       |
+|                         | UC10: Send Valuation Sample                               |
+|                         | UC15: Approve the valuation machining process             |
